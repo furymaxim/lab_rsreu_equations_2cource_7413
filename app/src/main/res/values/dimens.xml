@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="input_xs">45dp</dimen>
+    <dimen name="input_s">55dp</dimen>
+    <dimen name="gap_small">10dp</dimen>
+    <dimen name="gap_xxs">9dp</dimen>
+    <dimen name="font_size_m">15sp</dimen>
+    <dimen name="font_size_xl">20sp</dimen>
+    <dimen name="font_size_l">23sp</dimen>
+    <dimen name="input_m">75dp</dimen>
+</resources>

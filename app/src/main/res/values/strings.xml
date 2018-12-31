@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Поиск корней уравнения.</string>
+    <string name="title">Лабораторная работа №2. Решение уравнений.</string>
+    <string name="x3"><html>x<sup>3</sup></html> +</string>
+    <string name="x2"><html>x<sup>2</sup></html></string>
+    <string name="x">x +</string>
+    <string name="give_graph">Показать график</string>
+    <string name="write_interval">Введите интервал для табулирования функции: </string>
+    <string name="fx">f(x)=</string>
+    <string name="find_answer">Введите промежуток для поиска корня, а так же точность, с которой будет проихводится поиск</string>
+    <string name="basic_precision">0.001</string>
+    <string name="button_find_answer">Найти решение</string>
+    <string name="function_digits">-01234567890.</string>
+    <string name="double_format">#0.0000</string>
+    <string name="copy_to">Копировать</string>
+    <string name="title_half_division">Метод половинного деления</string>
+    <string name="button_set_default_interval">По умолчанию</string>
+</resources>
